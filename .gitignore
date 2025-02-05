@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.conda/
+*.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and Debug files
+logs/
+*.log
+*.out
+*.err
+*.swp
+
+# Cache
+.cache/
+*.cache
+*.pyc
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+pytest_cache/
+
+# Environment variables and secrets
+.env
+*.env
+*.secret
+secrets.json
+
+# IDE / Editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.bak
+*.tmp
+~$
+
+# Docker / Container files
+Dockerfile
+*.dockerignore
+
+# GitHub Pages
+_site/
+
+# Ignore Python notebooks' metadata (optional)
+**/.ipynb_checkpoints
