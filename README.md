@@ -7,4 +7,7 @@ This repository contains the code for **Projects 0, 1, 2, 3, and 4** from the **
 Due to course restrictions, the **training and test datasets** are not included in this repository. The provided code showcases the **methodologies and techniques** used to tackle each project.  
 
 ## Projects Included  
-
+- **Ridge Regression with K-Fold cross validation**  
+- **Imputation on Medical Time Series Followed by Classification and Regression Task**  
+- **Pre-training of a CNN and Fine-tuning on an Image Similarity Task**  
+- **Transfer Learning with an MLP for Molecule Properties Regression**  
